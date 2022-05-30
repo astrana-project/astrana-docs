@@ -1,9 +1,9 @@
-.. howzitapp-docs documentation master file, created by
+.. astrana-docs documentation master file, created by
    sphinx-quickstart on Mon Jun 24 00:08:16 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to howzitapp-docs's documentation!
+Welcome to astrana-docs's documentation!
 ==========================================
 
 .. toctree::
