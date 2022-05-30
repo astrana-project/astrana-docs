@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'howzitapp-docs'
-copyright = '2019, Howzit Social App'
+project = 'Astrana'
+copyright = '2019-2022, Astrana'
 author = 'Darin Morris'
 
 
