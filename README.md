@@ -1,6 +1,6 @@
 # Astrana Documentation
 
-The repository contains the documentation for the Astrana software applications.
+This repository contains the documentation for the Astrana software applications.
 
 We are using [Read the Docs](https://readthedocs.org/) to host the documentation and the rendered version can be found [here](https://docs.astrana.org).
 
