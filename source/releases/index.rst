@@ -1,8 +1,7 @@
 Astrana Releases
 =========================================================
 
-.. TIP:: 
-To get the latest Astrana release visit `www.astrana.org/releases/latest <https://www.astrana.org/releases/latest>`_
+.. TIP:: To get the latest Astrana release visit `www.astrana.org/releases/latest <https://www.astrana.org/releases/latest>`_
 
 The Astrana Project is a non-profit, community supported, open-source project, 
 with no full time or paid maintainers or contributors.
@@ -22,11 +21,10 @@ together as a single patch release to reduce the number of updates end-users
 will have to manage.
 
 Releases for functional and performance improvements will also be made 
-available as soon as possible but are likely to be made available on monthly 
+available as soon as possible, but are likely to be made available on a monthly 
 or quarterly basis.
 
-.. NOTE:: 
-For more information about the types of releases see :doc:`here <releases/types.rst>`
+.. NOTE:: For more information about the types of releases see :doc:`here <releases/types.rst>`
 
 Release history
 ---------------
@@ -52,4 +50,4 @@ features. All information is subject to change. As a feature or product
 becomes generally available, is cancelled or postponed, information will 
 be removed from this website.
 
-Reivew the `Roadmap<https://ideas.astrana.org>`_
+Reivew the `Roadmap <https://ideas.astrana.org>`_

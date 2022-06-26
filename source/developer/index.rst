@@ -5,7 +5,7 @@ Astrana Development Documentation
 
 Short intro, lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 
-.. note:: If you'd like to assist with providing support to the community please see the `Providing Community Support Guide </support>`_
+.. NOTE:: If you'd like to assist with providing support to the community please see the `Providing Community Support Guide </support>`_
 
 Preflight checks
 ----------------
