@@ -41,7 +41,7 @@ Liftoff
 
 Now that you've completed your "preflight checks" you're ready to begin making contributions.
 
-* :doc:`Setting up your local environment </developer/local-developer-environment-setup>`
-* :doc:`Testing in your local environment </developer/local-test-environment-setup>`
-* :doc:`Working with Translations </developer/getting-started-with-translations>`
-* :doc:`Choosing what to work on </developer/choosing-what-to-work-on>`
+* :doc:`Setting up your local environment <local-developer-environment-setup>`
+* :doc:`Testing in your local environment <local-test-environment-setup>`
+* :doc:`Working with Translations <getting-started-with-translations>`
+* :doc:`Choosing what to work on <choosing-what-to-work-on>`

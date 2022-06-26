@@ -14,9 +14,7 @@ essential milestones on the road to an official stable release. They allow a
 much wider pool of users to test the latest code and provide feedback before 
 the official stable release. 
 
-.. CAUTION::
-These releases should only be downloaded and used by developers very familiar 
-with Astrana or those wishing to help find defects in the software.
+.. CAUTION:: These releases should only be downloaded and used by developers very familiar with Astrana or those wishing to help find defects in the software.
 
 Alpha Releases
 --------------

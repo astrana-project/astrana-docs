@@ -24,7 +24,8 @@ Releases for functional and performance improvements will also be made
 available as soon as possible, but are likely to be made available on a monthly 
 or quarterly basis.
 
-.. NOTE:: For more information about the types of releases see :doc:`here <releases/types.rst>`
+.. NOTE:: For more information about the types of releases see 
+    :doc:`here <types.rst>`
 
 Release history
 ---------------
