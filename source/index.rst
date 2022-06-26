@@ -14,7 +14,8 @@ unknown printer took a galley of type and scrambled it to make a type specimen b
 It has survived not only five centuries, but also the leap into electronic typesetting, 
 remaining essentially unchanged. 
 
-.. note:: See the :doc:`Development Documentation </developer>` for technical documentation relating to contributing to the development of Astrana software.
+.. NOTE:: See the 
+   :doc:`Development Documentation </developer>` for technical documentation relating to contributing to the development of Astrana software.
 
 .. image:: _static/main.png
    :alt: screenshot
